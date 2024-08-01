@@ -1,0 +1,116 @@
+.navbg
+{
+    background-color:rgba(236,50,55,255);
+    color: white;
+}
+.navbg:hover
+{
+    background-color:black;
+    color: white;
+}
+.img
+{
+    height: 450px;
+}
+.class1
+{
+    top: 30%;
+    left: 5%;
+    position: absolute;
+}
+.img1
+{
+    width: 80%;
+}
+.shop
+{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.shop:hover
+{
+    background-color:white;
+    color:red;
+    text-decoration: none;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.select
+{
+    border: 1px solid red;
+    color: red;
+    padding: 10px;
+}
+.select:hover
+{
+    background-color: red;
+    color:white;
+    padding: 10px;
+}
+.img2
+{
+    height: 400px;
+    width: 100%;
+}
+.sec 
+{
+    background-image: url(./image/cover.jpg);
+    height: 350px;
+    width: 100%;
+}
+.now
+{
+    color: rgb(0, 225, 255);
+    background-color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+.main
+{
+    height: 450px;
+    width: 100%;
+}
+.img3
+{
+    width:90%;
+}
+.sub
+{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.sub:hover
+{
+    background-color: white;
+    color: red;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+ul
+{
+    list-style-type: none ;
+}
+li
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.foot
+{
+    margin-left: 34px;
+    color: rgb(212, 207, 207);
+}
+.last
+{
+    text-decoration: none;
+    color: rgb(212, 207, 207);
+}
